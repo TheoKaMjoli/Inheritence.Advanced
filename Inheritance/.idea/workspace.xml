@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cca77ba-c095-42d1-8740-a99772cf5aee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ba8LCcXglUI3H1Ml8Im139lSIk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="AdvancedInheritenceConcept" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="AccessingSuperClassMethods" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VehicleTest">
+    <configuration name="TestCustomers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccessingSuperClassMethods.TestCustomers" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccessingSuperClassMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemonstratingConstructor.UseParty" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemonstratingConstructor.DinnerPartyWithConstructor" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedInheritenceConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AdvancedInheritenceConcept" />
+      <option name="MAIN_CLASS_NAME" value="AdvancedInheritenceConcept.VehicleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VehicleTest" />
+        <item itemvalue="Application.TestCustomers" />
+        <item itemvalue="Application.UseParty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cca77ba-c095-42d1-8740-a99772cf5aee" name="Default Changelist" comment="" />
+      <created>1588858785288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588858785288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1777" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589136773804">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1777" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589136773804" />
+    <state x="1811" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1589179687016">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1811" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589179687016" />
+    <state x="1701" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589105128054">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1701" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589105128054" />
+    <state width="1237" height="497" key="GridCell.Tab.0.bottom" timestamp="1589180436087">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1280.994@0.0.1366.738" timestamp="1588946767961" />
+    <state width="1237" height="497" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180436087" />
+    <state width="1237" height="497" key="GridCell.Tab.0.center" timestamp="1589180436087">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1280.994@0.0.1366.738" timestamp="1588946767961" />
+    <state width="1237" height="497" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180436087" />
+    <state width="1237" height="497" key="GridCell.Tab.0.left" timestamp="1589180436087">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1280.994@0.0.1366.738" timestamp="1588946767961" />
+    <state width="1237" height="497" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180436087" />
+    <state width="1237" height="497" key="GridCell.Tab.0.right" timestamp="1589180436087">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1323" height="347" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1280.994@0.0.1366.738" timestamp="1588946767961" />
+    <state width="1237" height="497" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180436087" />
+    <state width="1237" height="329" key="GridCell.Tab.1.bottom" timestamp="1589111825700">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="329" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589111825700" />
+    <state width="1237" height="329" key="GridCell.Tab.1.center" timestamp="1589111825700">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="329" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589111825700" />
+    <state width="1237" height="329" key="GridCell.Tab.1.left" timestamp="1589111825700">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="329" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589111825700" />
+    <state width="1237" height="329" key="GridCell.Tab.1.right" timestamp="1589111825700">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="329" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589111825700" />
+    <state x="1711" y="391" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589180158317">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1711" y="391" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180158317" />
+    <state x="1777" y="201" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589180176499">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1777" y="201" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589180176499" />
+    <state x="1662" y="229" key="run.anything.popup" timestamp="1589179347186">
+      <screen x="1366" y="0" width="1280" height="994" />
+    </state>
+    <state x="1662" y="229" key="run.anything.popup/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1589179347186" />
+  </component>
+</project>
