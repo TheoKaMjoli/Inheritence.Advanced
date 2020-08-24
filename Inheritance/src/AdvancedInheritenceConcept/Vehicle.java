@@ -4,7 +4,7 @@ public abstract class Vehicle {
     private String powerSource;
     private int wheels;
     protected int price;
-
+    //Constructor; I need more clarity on this
     public Vehicle(String powerSource, int wheels) {
         setPowerSource(powerSource);
         setWheels(wheels);
